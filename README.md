@@ -140,7 +140,7 @@ Antes de executar, crie um ambiente virtual (venv). Certifique-se de ter o (Pyth
 
     ```bash
     git clone <https://github.com/JoaoFialho1/AgoraChallenge2025>
-    cd JGP2025
+    cd AgoraChallenge2025
     ```
 
 2. **Crie um ambiente virtual, digite no terminal:**
