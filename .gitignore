@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env
+
+# PyCharm
+.idea/
+.excel/
+
+# Logs
+*.log
+
+# Results
+results/*
+!results/expected_return_4y.xlsx
+!results/6ano_3_APT_efficient_frontier.png
